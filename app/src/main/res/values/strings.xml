@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Beprogrammer Chat</string>
+    <string name="my_string_value"><b> Don\'t have an Account?</b> <i><u>Creat new Account.</u></i></string>
+    <string name="signIn"><b> Already have an Account?</b> <i><u>Login.</u></i></string>
+    <string name="or_login_using_phone"><u>Or Login Using <b>Phone.</b></u></string>
+</resources>
